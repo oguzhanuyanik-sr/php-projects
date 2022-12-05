@@ -1,3 +1,5 @@
 # To-do List
-PHP, MySQL, JQuery, Ajax
+```
+JQuery, Ajax, PHP, MySQL
+```
 ### <a href="https://devaloper.com/not-uygulamasi">Live Demo</a>
